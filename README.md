@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Arafat Rahman
+# Hi there 👋, my name is Arafat Rahman
 #### MERN DEVELOPER || FULL STACK DEVELOPER
 Hi there, This is Arafat Rahman. I am a JUNIOR WEB DEVElOPER || MERN DEVELOPER. Passionate fresher in web development seeking MERN stack experience. Dedicated to learning, collaboration rating, and delivering visually appealing web applications. Committed to professional growth and exceeding client expectations. Thanks For the visit. 
 
