@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Arafat Rahman
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**arafatrahman862/arafatrahman862** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, This is Arafat Rahman. I am a JUNIOR WEB DEVElOPER || MERN DEVELOPER. Passionate fresher in web development seeking MERN stack experience. Dedicated to learning, collaboration rating, and delivering visually appealing web applications. Committed to professional growth and exceeding client expectations. Thanks For the visit. 
 
-Here are some ideas to get you started:
+Skills: HTML / CSS / JavaScript / Es6 / React.js / Express.js / MongoDB / Node.js / Rest API / Redux.js / Redux Toolkit / Firebase / SSL-COMMERZ / Stripe.js / Axios / C++ (basic) / Git / java/ C  / DSA in c++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
